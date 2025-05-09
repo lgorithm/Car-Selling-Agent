@@ -1,5 +1,7 @@
 import streamlit as st
+from dotenv import load_dotenv
 
+load_dotenv()
 admin_page = st.Page("admin.py", title="Admin", icon=":material/add_circle:")
 user_page = st.Page("user.py", title="User", icon=":material/delete:")
 

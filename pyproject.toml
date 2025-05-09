@@ -1,5 +1,5 @@
 [project]
-name = "ai-agent-handler-sell"
+name = "car-selling-agent"
 version = "0.1.0"
 description = ""
 authors = [
